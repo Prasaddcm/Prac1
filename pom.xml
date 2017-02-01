@@ -12,6 +12,7 @@
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-war-plugin</artifactId>
   <version>3.0.0</version>
+  <packaging>war</packaging>
   <type>maven-plugin</type>
 </dependency>
   
