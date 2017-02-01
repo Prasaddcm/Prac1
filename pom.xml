@@ -8,4 +8,12 @@
   <artifactId>my-project</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
+  
+  <dependency>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-war-plugin</artifactId>
+  <version>3.0.0</version>
+  <type>maven-plugin</type>
+</dependency>
+  
 </project>
